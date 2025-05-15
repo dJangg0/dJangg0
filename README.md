@@ -6,7 +6,8 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: N/A
 
-<!---
-dJangg0/dJangg0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You found it !
+5/15/2025
+"HACKAFEST" Challenge:
+What is a method of encrypting alphabetic text using a polyalphabetic substitution technique, where each letter is encrypted using a different Caesar cipher determined by a keyword
+Key Clue: is seen in plain sight
