@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports and hacking but still newbie
 - 🌱 I’m currently learning phython and machine learning
 - 💞️ I’m looking to collaborate on anyone who can help me learn
-- 📫 How to reach me on Facebook @Lean Dro
+- 📫 How to reach me on Facebook @Leandro Jose Untal
 - 😄 Pronouns: He
 - ⚡ Fun fact: N/A
 
